@@ -1,0 +1,12 @@
+[core]
+	  editor = vim
+    quotepath = false
+    ignorecase = false
+    excludesfile = ~/.gitignore
+
+[color]
+    ui = auto
+
+[diff]
+    # diffでリネームを検知
+    renames = true
